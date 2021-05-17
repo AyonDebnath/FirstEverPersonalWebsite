@@ -1,10 +1,9 @@
-* {margin:0; padding:0;font-family: Ariel; font-size: 14px; font-weight: normal;}
-body{margin: 20px auto; width: 960px; background: url(Images/bg.png) repeat fixed}
-.main {background: #FFF}
-.header {background: url(Images/headerbg.jpg); border-bottom: 3px #000 solid; border-bottom-style:  double}
-.intro {font-size: 100px; color: #000000}
+*{margin:0; padding:0;font-family: Ariel; font-size: 14px; font-weight: normal}
+body{margin: 0px auto; background: url(../Images/bg.png) repeat; width: 960px}
 
-.maincontent {height: 400px}
+.main{background: white}
+
+.maincontent {height: 900px}
 
 .menu {float: left}
 .menu ul {width: 250px; margin-right: 20px;background: #ededed; margin-left: 10px; list-style: none}
@@ -12,10 +11,6 @@ body{margin: 20px auto; width: 960px; background: url(Images/bg.png) repeat fixe
 .menu ul li a{text-decoration: none;color: #6B717B}
 .menu ul li a:hover{color: black; font-weight: bold; padding: 10px}
 .menu h1 {background: #000; color: #FFFFFF; font-weight: normal; margin-bottom: 20px; margin-top: 20px; padding: 20px 25px; width: 200px; font-size: 20px; }
-
-.content{float: right; width: 680px; margin-top: 20px}
-.content h {font-size: 60px; margin-left: 20px;}
-.content p {margin-top: 15px; font-size: 16px; margin-right: 30px; margin-left: 20px;}
 
 .footer {background: #1d1c1cd2; padding:10px; color: white; margin-top: 15px}
 .one {width:320px; float: left}
